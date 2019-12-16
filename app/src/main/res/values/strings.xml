@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">VibrationSensor</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Open">1</string>
+    <string name="Close">2</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_settings">Settings</string>
+    <string-array name="ttn_gateway">
+        <item>Notification</item>
+        <item>Data Sync</item>
+        <item>Map</item>
+
+    </string-array>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Welcome to Mob2LoRa </string>
+    <string name="slide_1_desc">The next revolutionary IoT platform for sensing and communication.</string>
+    <string name="slide_2_title">Sense </string>
+    <string name="slide_2_desc"> Measure environment data: Temprature, humidity, GPS, Acceleration </string>
+    <string name="slide_3_title">Communicte </string>
+    <string name="slide_3_desc">Let the app act as gateway ...</string>
+
+    <string name="slide_4_title">lets get started </string>
+    <string name="slide_4_desc">Press scan to find and add nearby LoRA node</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="toast_message">Hurra!</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="empty_screen">We do not have anything\nhere right now. Please Retry</string>
+    <string name="btn_retry">Retry</string>
+
+    <string-array name="fetan_settings">
+        <item>Profile</item>
+        <item>My Booking</item>
+        <item>Promo</item>
+        <item>Get in Touch</item>
+
+    </string-array>
+    <string-array name="planets_array">
+        <item>I have a job </item>
+        <item>I need a job </item>
+
+    </string-array>
+
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign up</string>
+    <string name="hint_dob">Re-type password</string>
+    <string name="hint_email">Email </string>
+</resources>
